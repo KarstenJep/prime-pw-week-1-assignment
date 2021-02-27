@@ -1,11 +1,43 @@
-/* Give your page a fun background color */
+body {
+  background-color: skyblue;
+  padding: 10%;
+  }/* Give your page a fun background color */
 
-/* Make the header and footer a different color from the background */
+header {
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  font-size: 150%;
+}
+footer {
+  background-color: white;
+  border-radius: 5px;
+}/* Make the header and footer a different color from the background */
 
+h1 {
+  text-align: center;
+}
 /* Align the h1 containing your name in the center of the header*/
 
+p {
+  color: skyblue;
+  font-style: italic;
+  padding-left: 10px;
+  font-size: 150%;
+}
 /* Make your p tag a different color and italic */
 
+img {
+  border: 10px solid black;
+  border-radius: 15px;
+  max-width: 50%;
+  height: auto;
+}
 /* Put a border around your image */
 
+li {
+  font-family: fantasy;
+  padding-left: 10px;
+  font-size: 150%;
+}
 /* Change the font-family of your list */
