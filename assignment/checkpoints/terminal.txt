@@ -17,7 +17,7 @@ Nothing
 A list of the files in the folder
 
 # 6 - What is a quick way to create a new file?
-touch (name of file).(type of file)
+touch name-of-file.type-of-file
 
 # 7 - Run 'git --version' in your terminal. What is the output?
 git version 2.15.0
